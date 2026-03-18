@@ -6,10 +6,10 @@ This project is a simple web crawler built with Node.js, axios, and cheerio. Its
 
 💡 Features
 
-Normalizes URLs for consistent internal link tracking
+- Normalizes URLs for consistent internal link tracking
 
-Crawls all internal pages of a website
+- Crawls all internal pages of a website
 
-Generates a report of links in the console
+- Generates a report of links in the console
 
-Includes automated tests using Jest
+-  Includes automated tests using Jest
